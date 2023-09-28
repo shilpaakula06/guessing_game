@@ -1,5 +1,7 @@
 # guessing_game
 
+**RUST**
+
 
 My first hello world program in rust with cargo setup
 
