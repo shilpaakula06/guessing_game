@@ -3,11 +3,16 @@
 
 My first hello world program in rust with cargo setup
 
-following are steps
+following are steps:
 
 install rust from https://www.rust-lang.org/tools/install
+
+
 python install cargo
+
 cargo new guessing_game
+
+
 cargo run
 
 got few errors:
